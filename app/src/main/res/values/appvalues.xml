@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Cores para o Projeto  -->
+    <color name="appVerdeEscuro"> #006341</color>
+    <color name="appVerdeClaro"> #00A859</color>
+    <color name="appCinzaEscuro"> #4D4D4D </color>
+    <color name="appCinzaClaro"> #B3B3B3 </color>
+    <color name="appBranco"> #FFFFFF </color>
+    <color name="appPreto"> #000000</color>
+
+    <!--  Strings  -->
+    <string name="textCalculadoraIMC">Calculadora IMC</string>
+    <string name="textBemVindo">Seja bem-vindo!</string>
+    <string name="textLimpar">Limpar</string>
+    <string name="textFechar">Fechar</string>
+    <string name="textCalcularIMC">Calcular IMC</string>
+    <string name="textAltura">ALTURA:\n</string>
+    <string name="textIMC">IMC:\n</string>
+    <string name="textPeso">PESO:\n</string>
+    <string name="textCategoria">Categoria</string>
+
+    <!--  Strings Motivacionais  -->
+    <string name="textMotivacaoAbaixo">Seu corpo merece nutrição e cuidado. Passo a passo, você fortalece sua saúde!</string>
+    <string name="textMotivacaoNormal">Equilíbrio é a chave! Continue honrando seu corpo com hábitos que te fazem bem.</string>
+    <string name="textMotivacaoSobrepeso">Pequenas mudanças geram grandes resultados. Acredite no seu progresso!</string>
+    <string name="textMotivacaoGrau1">Sua jornada é única. Foco no progresso, não na perfeição – você é capaz!</string>
+    <string name="textMotivacaoGrau2">Força não é só física, mas também de vontade. Um dia de cada vez, você avança!</string>
+    <string name="textMotivacaoGrau3">Sua saúde importa. Busque apoio, respeite seu ritmo – cada passo conta!</string>
+
+    <!--  Hints  -->
+    <string name="hintKG">Digite seu peso em Kg:</string>
+    <string name="hintM">Digite sua altura em Metros:</string>
+</resources>
